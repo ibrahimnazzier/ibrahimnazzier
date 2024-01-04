@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ibrahimnazzier
 - 👀 I’m interested in Malware anlaysis
 - 🌱 I’m currently learning Computer archtechture & fundamentals of malware analysis
-- 💞️ I’m looking to collaborate on writing sandboxing.
+- 💞️ I’m looking to collaborate on writing malware sandboxes.
 - 📫 How to reach me Ibrahimnazzier@gmail.com
 
 <!---
